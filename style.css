@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #000000;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_name ,#result_name2  
+{
+  color: black;
+}
+.hand_guesture_name
+{
+  font-size: 40px;
+}
+.hand_guesture
+{
+  font-size:48px;
+}
+.heding{
+font-size: 20px;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+label{
+font-size: 14px;
+color: aqua;
+padding: 5px;
+border-radius: 10px;
+background-color: black;
+}
